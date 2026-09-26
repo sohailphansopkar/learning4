@@ -1,0 +1,21 @@
+img {
+  width: 100px;
+height: auto;
+display: block;
+margin: auto;
+  
+} 
+h1{
+  text-align: center;
+}
+form{
+  text-align: center;
+  background-color: red;
+}
+P{
+  text-align: center;
+  background-color: aliceblue;
+}
+#center{
+  text-align: center;
+}
